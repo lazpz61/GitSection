@@ -1,4 +1,4 @@
-from secret import PASSWORD
+from secrets import PASSWORD
 print("New Code")
 
 password = PASSWORD
